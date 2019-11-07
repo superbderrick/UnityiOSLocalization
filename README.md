@@ -1,3 +1,3 @@
-# RxJavaSample
-Sample project to study RxJava and RXAndroid
+# RxAndroidSample
+Sample project to study RxJava and RxAndroid
 
