@@ -1,6 +1,6 @@
-# OnPostProcessBuild sample
+# UnityiOSLocalization sample project
 
-sample projectfor iOS localizable works with onPostProcessBuild API and Unity XcodeAPI
+sample project for iOS localizable works with onPostProcessBuild API and Unity XcodeAPI
 
 - https://bitbucket.org/Unity-Technologies/xcodeapi/src/stable/
 
