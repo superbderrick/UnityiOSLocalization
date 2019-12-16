@@ -1,3 +1,4 @@
-# RxAndroidSample
-Sample project to study RxJava and RxAndroid
+# OnPostProcessBuild sample
+
+sample project to test script build with OnPostProcessBuild API
 
