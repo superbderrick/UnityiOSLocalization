@@ -2,10 +2,11 @@
 
 sample project for iOS localizable works with onPostProcessBuild API and Unity XcodeAPI
 
-- https://bitbucket.org/Unity-Technologies/xcodeapi/src/stable/
 
-Ref
+
+Refs
 - https://github.com/zeyangl/UnityAppNameLocalizationForIOS         
+- https://bitbucket.org/Unity-Technologies/xcodeapi/src/stable/
 
 
 
