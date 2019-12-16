@@ -1,4 +1,11 @@
 # OnPostProcessBuild sample
 
-sample project to test script build with OnPostProcessBuild API
+sample projectfor iOS localizable works with onPostProcessBuild API and Unity XcodeAPI
+
+- https://bitbucket.org/Unity-Technologies/xcodeapi/src/stable/
+
+Ref
+- https://github.com/zeyangl/UnityAppNameLocalizationForIOS         
+
+
 
