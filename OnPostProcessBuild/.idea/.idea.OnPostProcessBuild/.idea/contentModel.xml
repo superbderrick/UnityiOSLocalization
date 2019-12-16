@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_OnPostProcessBuild.-226994927.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="LocalizeName.cs" t="Include" />
+          <e p="PostProcess.cs" t="Include" />
+          <e p="Xcode" t="Include">
+            <e p="AssetCatalog.cs" t="Include" />
+            <e p="JsonParser.cs" t="Include" />
+            <e p="PBX" t="Include">
+              <e p="Elements.cs" t="Include" />
+              <e p="Lexer.cs" t="Include" />
+              <e p="Objects.cs" t="Include" />
+              <e p="Parser.cs" t="Include" />
+              <e p="Sections.cs" t="Include" />
+              <e p="Serializer.cs" t="Include" />
+              <e p="Utils.cs" t="Include" />
+            </e>
+            <e p="PBXCapabilityType.cs" t="Include" />
+            <e p="PBXPath.cs" t="Include" />
+            <e p="PBXProject.cs" t="Include" />
+            <e p="PBXProjectData.cs" t="Include" />
+            <e p="PBXProjectExtensions.cs" t="Include" />
+            <e p="PlistParser.cs" t="Include" />
+            <e p="ProjectCapabilityManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OnPostProcessBuild.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
